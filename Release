@@ -1,1 +1,9 @@
-
+Origin: Minimalman's Repo
+Label: Minimalman's Repo
+Suite: Stable
+Version: 1.0
+Codename: Minimalman
+Architectures: iphoneos-arm
+Components: main
+Description: Minimalman's Repo
+MD5Sum:
